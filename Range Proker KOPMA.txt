@@ -1,6 +1,6 @@
-Range Program Kerja Kopma 
+# Range Program Kerja Kopma
 
-*Diklat*
+## *Diklat*
 
 - Setidaknya ada pemateri yang dulu dari kopma
 
@@ -10,14 +10,14 @@ Materi:
 - Manajemen outsourcing (Bu Okta)
 - Pengenalan Koperasi Mahasiswa (Kopma pusat)
 
-*Pelatihan Pengurus Koperasi Mahasiswa*
+## *Pelatihan Pengurus Koperasi Mahasiswa*
 
 Materi:
 - Video Editing
 - Desain Grafis
 
-*Sarasehan ke kopma pusat*
+## *Sarasehan ke kopma pusat*
 
-*Jualan*
+## *Jualan*
 
 
