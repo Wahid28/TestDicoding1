@@ -14,3 +14,9 @@ Mulai melaksanakan pembelajaran berdasarkan Studi Kasus (Progress 55%)
 * Melihat History Perubahan
 * Merangkum yang telah dipelajari
 
+**10 Februari 2022**  
+Menyelesaikan tantangan studi kasus Git (Progress 100%)
+
+* Memperbaiki Penulisan Teks
+* Melakukan Commit
+* Membuat Rangkuman
